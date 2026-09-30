@@ -5,7 +5,7 @@
 
 ## Запуск
 
-Нужен Python 3.10 или новее. Из папки `lab1`:
+Нужен Python 3.10 или новее:
 
 ```powershell
 python -m pip install -r requirements.txt
