@@ -1,0 +1,13 @@
+{
+  "student_number": 23,
+  "group": 527,
+  "year": 26,
+  "population_size": 60,
+  "generations": 100,
+  "tournament_size": 3,
+  "crossover_probability": 0.9,
+  "mutation_sigma": 5.0,
+  "runs": 20,
+  "first_seed": 2026,
+  "mutation_probabilities": [0.1, 0.4]
+}
